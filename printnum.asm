@@ -3,7 +3,6 @@ section .bss
     digitSpacePos resb 4
  
 section .data
-    text db "Hello, World!",10,0
  
 section .text
     global _start
